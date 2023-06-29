@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string-array name="cities">
+        <item>Tarnów</item>
+        <item>Kraków</item>
+        <item>Warszawa</item>
+    </string-array>
+    <string-array name="weather_analysis">
+        <item>Temperatura</item>
+        <item>Ciśnienie</item>
+        <item>Wilgotność</item>
+        <item>Prędkość wiatru</item>
+    </string-array>
+</resources>
